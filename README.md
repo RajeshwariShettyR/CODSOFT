@@ -1,2 +1,2 @@
 # CODSOFT
-This repo includes 5 CODSOFT internship tasks regarding "Java Programming".
+This repo includes  CODSOFT internship tasks regarding "Java Programming".
